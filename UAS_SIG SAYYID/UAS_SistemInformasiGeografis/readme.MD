@@ -3,4 +3,4 @@
 - NIM   : D0221068
 - KELAS : INFORMATIKA B
 ## DEMO
-[(https://github.com/AndreanaWirawan/Final_SIG)](https://github.com/AndreanaWirawan/Final_SIG)
+[(https://github.com/Sayyidmuslih/UAS-SIG-SAYYID-muslih.git)](https://github.com/Sayyidmuslih/UAS-SIG-SAYYID-muslih.git)
